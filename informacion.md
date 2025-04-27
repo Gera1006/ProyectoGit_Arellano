@@ -21,6 +21,7 @@ Prefiero que me llamen Gerardo, Gera o Jerry
 - Sistemas embebidos 
 - Implementación de algoritmos de inteligencia artificial
 - Proyectos de sustentabilidad y eficiencia energética
+- Control de PLC's y sistemas SCADA
 
 ## 🏀 Pasatiempos
 - Me gusta ir al gimnasio
