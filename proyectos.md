@@ -1,6 +1,6 @@
 # Proyectos Desarrollados
 
-## 🚀 Proyecto 1: Prometeo (en curso)
+## 🚀 Proyecto 1: Prometeo
 **Descripción:**  
 El propósito del proyecto es programar, diseñar y construir un robot tipo rover que sea capaz de realizar navegación autónoma, a través de algoritmos de inteligencia artificial y visión computacional.   
 
