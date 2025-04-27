@@ -18,6 +18,10 @@ El propósito del proyecto es programar, diseñar y construir un robot tipo rove
 - [Python](https://www.python.org/)
 - [YOLOv5 GitHub](https://github.com/ultralytics/yolov5)
 
+**Imagenes**
+
+<image src="/imagenes/rover.jpg" alt="Rover descriptivo">
+
 ---
 
 ## 🌦 Proyecto 2: Monitoreo en tiempo real de las condiciones climatológicas en distintas ciudades de México
@@ -28,12 +32,17 @@ Se realizó una interfaz gráfica que incluye un mapa, selector y alertas de con
 - Open Weather API. 
 - LabView ![LabVIEW](https://a11ybadges.com/badge?logo=labview)
 
+
+
 **Estado:**  
 - ✅ Terminado
 
 **Links a las tecnologías:**
 - [OpenWeatherMap](https://openweathermap.org/api)
 - [LabView](https://www.ni.com/es/support/downloads/software-products/download.labview.html?srsltid=AfmBOooBP8lPhbDtDc-sKQL7dgoDKA-dFPLf8pC3_BJuWhI-YnTLOeIA#559067)
+
+**Imagenes**
+<image src="/imagenes/LabViewOWAPI.png" alt="Pantalla de LabView">
 
 ---
 
@@ -52,6 +61,8 @@ Utilizando RSLogix 500, Delphi RAD Studio y conexión OPC con el PLC SLC 5/04, s
 - [Embarcadero RAD Studio Delphi](https://www.embarcadero.com/es/products/rad-studio/features/delphi)
 - [Rockwell Automation RSLogix 500](https://commerce.rockwellautomation.com/rockwell/es/USD/p/9324-RSL500/bundleBrand)
 
+**Imagenes**
+<image src="/imagenes/SLC504.jpg" alt="Controlador 5/04 de Allen Bradley">
 ---
 
 # 📈 Resumen de Proyectos
