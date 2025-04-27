@@ -11,7 +11,8 @@
 ## 📺 Categoría 2: Series favoritas
 - 📺 The Last of Us
 - 📺 Game Of Thrones
-- 📺 Arcane   
+- 📺 Arcane
+- 📺 Cómo coocí a tu madre   
 
 ---
 
