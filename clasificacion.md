@@ -16,7 +16,7 @@
 
 ---
 
-## 🎮 Categoría 3: "Videojuegos Favoritos"
+## 🎮 Categoría 3: Videojuegos Favoritos
 - 🎮 League Of Legends
 - 🎮 Destiny 2
 - 🎮 Call Of Duty Black Ops II
@@ -24,5 +24,11 @@
 
 ---
 
+## 🎥 Categoría 4: Peliculas favoritas
+- 🎥 Dune 2
+- 🎥 The Batman
+- 🎥 Star Wars Episodio VI: El retorno del Jedi
+
+---
 
 > "Mientras más negra la noche, más brillan las estrellas. - Braum"
