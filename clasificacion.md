@@ -6,6 +6,8 @@
 - 🎵 [Rollin' / Chocolate Starfish And The Hot Dog Flavored Water] - [Limp Bizkit]
 - 🎵 [Efecto / Un Verano SIn Ti] - [Bad Bunny]
 
+![Portada de "Te Llevo En La Sangre"](/imagenes/AF_TLELS.jpeg)
+
 ---
 
 ## 📺 Categoría 2: Series favoritas
@@ -14,6 +16,7 @@
 - 📺 Arcane
 - 📺 Cómo coocí a tu madre   
 
+![Promocional de Arcane](/imagenes/ARCANE.jpg)
 ---
 
 ## 🎮 Categoría 3: Videojuegos Favoritos
@@ -22,6 +25,8 @@
 - 🎮 Call Of Duty Black Ops II
 - 🎮 Star Wars Battlefront 2
 
+![Promocional de Destiny 2](/imagenes/DESTINY2.jpg)
+
 ---
 
 ## 🎥 Categoría 4: Peliculas favoritas
@@ -29,6 +34,8 @@
 - 🎥 The Batman
 - 🎥 Star Wars Episodio VI: El retorno del Jedi
 - 🎥 Scott Pilgrim contra el mundo
+
+![Edición especial de "El retorno del Jedi"](/imagenes/SW_ERDJ.jpg)
 
 ---
 
