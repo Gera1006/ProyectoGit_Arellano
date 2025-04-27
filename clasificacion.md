@@ -1,4 +1,4 @@
-# Clasificación de [Libros / Música / Videojuegos / Series]
+# Clasificación de Libros / Música / Videojuegos / Series
 
 ## 🎶 Categoría 1: Música favorita
 - 🎵 [La última Y Nos Vamos / Te Llevo En La Sangre] - [Alejandro Fernández]
