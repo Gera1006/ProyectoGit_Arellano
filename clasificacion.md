@@ -20,8 +20,9 @@
 - 🎮 League Of Legends
 - 🎮 Destiny 2
 - 🎮 Call Of Duty Black Ops II
+- 🎮 Star Wars Battlefront 2
 
 ---
 
 
-> "UMientras más negra la noche, más brillan las estrellas. - Braum"
+> "Mientras más negra la noche, más brillan las estrellas. - Braum"
