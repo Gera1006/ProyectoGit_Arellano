@@ -37,4 +37,19 @@ Se realizó una interfaz gráfica que incluye un mapa, selector y alertas de con
 
 ---
 
+## 💻 Proyecto 3: Control y supervisión de sistema secuencial electroneumático
+**Descripción:**  
+Utilizando RSLogix 500, Delphi RAD Studio y conexión OPC con el PLC SLC 5/04, se diseñó la secuencia electroneumática siguiendo la metodología GRAFCET de un panel con 3 pistones de doble efecto y 2 pistones de retorno por muelle. En Delphi se realizó la HMI, que además controlaba aspectos de la secuencia, como el número de repeticiones o el tiempo de retardo de los pistones de doble efecto.   
+
+**Tecnologías utilizadas:**
+- Embarcadero RAD Studio Delphi 
+- Rockwell Automation RSLogix 500 
+
+**Estado:**  
+- ✅ Terminado
+
+**Links a las tecnologías:**
+- [Embarcadero RAD Studio Delphi](https://www.embarcadero.com/es/products/rad-studio/features/delphi)
+- [Rockwell Automation RSLogix 500](https://commerce.rockwellautomation.com/rockwell/es/USD/p/9324-RSL500/bundleBrand)
+
 
