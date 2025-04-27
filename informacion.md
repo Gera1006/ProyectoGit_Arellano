@@ -9,6 +9,7 @@ Luis Gerardo Arellano Cortés
 ## 🎓 Formación Académica
 - Ingeniería eléctrica electrónica
 - Universidad Nacional Autónoma de México
+- Diplomado en aviónica en el Palacio de Minería
 
 ## 📧 Contacto
 - Correo electrónico: lgerard.arellano@gmail.com
