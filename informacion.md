@@ -32,6 +32,7 @@ Prefiero que me llamen Gerardo, Gera o Jerry
 - Formo parte de la Sociedad de Inteligencia Artificial de la Facultad de Ingeniería (SIAFI), en el proyecto *Prometeo*
 - Fui becario en el Museo Universum del 1 de febrero de 2023 al 1 de febrero de 2024, en la sala *Decide*
 - Fui voluntario en el evento *Cosmos*, que reunió a distintos científicos y divulgadores, como Miguel Alcubierre, Farid Dieck, Javier Santaolalla, etc. 
+- Amo a los gatos.
 
 ---
 
