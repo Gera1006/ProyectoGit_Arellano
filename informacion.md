@@ -2,6 +2,7 @@
 
 ## 👤 Nombre Completo
 Luis Gerardo Arellano Cortés
+Prefiero que me llamen Gerardo, Gera o Jerry 
 
 ## 📅 Fecha de Nacimiento
 06 de Octubre del 2000
