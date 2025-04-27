@@ -7,7 +7,8 @@ El propósito del proyecto es programar, diseñar y construir un robot tipo rove
 **Tecnologías utilizadas:**
 - Open CV ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 - Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- YOLOv5 (You Only Look Once)
+- - YOLOv5 (You Only Look Once) ![YOLO](https://img.shields.io/badge/yolov5-%23000.svg?style=for-the-badge&logo=yolo&logoColor=white)
+
 
 
 
@@ -19,7 +20,7 @@ Se realizó una interfaz gráfica que incluye un mapa, selector y alertas de con
 
 **Tecnologías utilizadas:**
 - Open Weather API. 
-- LabView
+- LabView ![LabVIEW](https://a11ybadges.com/badge?logo=labview)
 
 ---
 
