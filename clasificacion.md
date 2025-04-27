@@ -4,6 +4,7 @@
 - 🎵 [La última Y Nos Vamos / Te Llevo En La Sangre] - [Alejandro Fernández]
 - 🎵 [Pequeños Inconvenientes / Te Llevo En La Sangre Deluxe] - [Alejandro Fernández]
 - 🎵 [Rollin' / Chocolate Starfish And The Hot Dog Flavored Water] - [Limp Bizkit]
+- 🎵 [Efecto / Un Verano SIn Ti] - [Bad Bunny]
 
 ---
 
