@@ -14,6 +14,7 @@ Luis Gerardo Arellano Cortés
 ## 📧 Contacto
 - Correo electrónico: lgerard.arellano@gmail.com
 - Teléfono: 5552962642
+- Correo secundario: gerardo.arellano.cortes@gmail.com
 
 ## 🌟 Intereses
 - Sistemas embebidos 
