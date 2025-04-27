@@ -39,4 +39,13 @@
 
 ---
 
+# 📋 Comentarios
+
+*Esta clasificación refleja mis gustos personales hasta 2025.  
+¡Estoy abierto a recomendaciones nuevas! 📚🎵🎮*
+*Por favor, deja tus recomendaciones junto con tu nombre a continuación:*
+
+
+---
+
 > "Mientras más negra la noche, más brillan las estrellas. - Braum"
