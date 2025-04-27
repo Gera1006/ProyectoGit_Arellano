@@ -28,6 +28,7 @@
 - 🎥 Dune 2
 - 🎥 The Batman
 - 🎥 Star Wars Episodio VI: El retorno del Jedi
+- 🎥 Scott Pilgrim contra el mundo
 
 ---
 
