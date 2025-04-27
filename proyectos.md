@@ -10,7 +10,8 @@ El propósito del proyecto es programar, diseñar y construir un robot tipo rove
 - - YOLOv5 (You Only Look Once) ![YOLO](https://img.shields.io/badge/yolov5-%23000.svg?style=for-the-badge&logo=yolo&logoColor=white)
 
 
-
+**Estado:**  
+- 🚧 En desarrollo
 
 ---
 
@@ -21,6 +22,9 @@ Se realizó una interfaz gráfica que incluye un mapa, selector y alertas de con
 **Tecnologías utilizadas:**
 - Open Weather API. 
 - LabView ![LabVIEW](https://a11ybadges.com/badge?logo=labview)
+
+**Estado:**  
+- ✅ Terminado
 
 ---
 
