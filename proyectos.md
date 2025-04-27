@@ -52,4 +52,13 @@ Utilizando RSLogix 500, Delphi RAD Studio y conexión OPC con el PLC SLC 5/04, s
 - [Embarcadero RAD Studio Delphi](https://www.embarcadero.com/es/products/rad-studio/features/delphi)
 - [Rockwell Automation RSLogix 500](https://commerce.rockwellautomation.com/rockwell/es/USD/p/9324-RSL500/bundleBrand)
 
+---
+
+# 📈 Resumen de Proyectos
+
+| Proyecto | Estado | Tecnologías |
+|:---------|:-------|:------------|
+| Prometeo | En curso 🚧 | OpenCV, Python, YOLOv5 |
+| Clima México | Terminado ✅ | OpenWeather API, LabVIEW |
+| Automatización | Terminado ✅ | RSLogix 500, RAD Studio Delphi |
 
