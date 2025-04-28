@@ -45,6 +45,7 @@
 ¡Estoy abierto a recomendaciones nuevas! 📚🎵🎮*
 *Por favor, deja tus recomendaciones junto con tu nombre a continuación:*
 
+1.  Hola soy **Dey:**  Una de mis pelis fav es *Nerve, un juego sin reglas*, te la super recomiendo.🤗
 
 ---
 
