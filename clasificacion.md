@@ -45,6 +45,11 @@
 ¡Estoy abierto a recomendaciones nuevas! 📚🎵🎮*
 *Por favor, deja tus recomendaciones junto con tu nombre a continuación:*
 
+**Recomendaciones de Giselle:**
+- 🎥 Película: La vida misma
+- 🎵 Canción: How do you know? - Rey Pila
+- 📺 Serie: Prision Break
+
 1.  Hola soy **Dey:**  Una de mis pelis fav es *Nerve, un juego sin reglas*, te la super recomiendo.🤗
 
 ---
