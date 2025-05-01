@@ -52,6 +52,10 @@
 
 1.  Hola soy **Dey:**  Una de mis pelis fav es *Nerve, un juego sin reglas*, te la super recomiendo.🤗
 
+**Recomendaciones de Emiliano:**
+- Cancion: What Is Life - George Harrison
+- Pelicula: Interstellar
+
 ---
 
 > "Mientras más negra la noche, más brillan las estrellas. - Braum"
