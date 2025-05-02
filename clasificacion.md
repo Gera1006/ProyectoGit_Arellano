@@ -67,3 +67,13 @@ Hola, soy Jessi. Te recomiendo:
 
 
 > "Mientras más negra la noche, más brillan las estrellas. - Braum"
+
+
+## Fabufantásticas recomendaciones de Frida Thais 
+
+Hola, quiubo, yo te recomiendo:
+
+- **Canción:** __Houdini__ – **Foster the people**
+- **Serie:** __Malcom el de enmedio__ (Está en Disney+)
+– **Video juego:** __The last of Us__ 
+- **Película:** __Spider-Man into the spider-verse__
