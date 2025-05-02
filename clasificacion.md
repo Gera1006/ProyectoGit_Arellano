@@ -52,6 +52,13 @@
 
 1.  Hola soy **Dey:**  Una de mis pelis fav es *Nerve, un juego sin reglas*, te la super recomiendo.🤗
 
----
+
+## 🌟 Recomendación de Jessi.
+Hola, soy Jessi. Te recomiendo:
+- 🎵 **Canción:** *Bailando Solo* – **Los Bunkers**
+- 🎮 **Juego:** *Little Nightmares*
+- 🎬 **Película:** *Temporada de Huracanes*
+
+
 
 > "Mientras más negra la noche, más brillan las estrellas. - Braum"
