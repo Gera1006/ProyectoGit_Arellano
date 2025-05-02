@@ -51,6 +51,7 @@
 - 📺 Serie: Prision Break
 
 1.  Hola soy **Dey:**  Una de mis pelis fav es *Nerve, un juego sin reglas*, te la super recomiendo.🤗
+2. Hola soy **Erick** para ti cual a ido el mejor Batman y el mejor Joker?
 
 ---
 
