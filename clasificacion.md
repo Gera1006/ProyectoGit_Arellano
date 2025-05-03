@@ -67,3 +67,4 @@ Hola, soy Jessi. Te recomiendo:
 
 
 > "Mientras más negra la noche, más brillan las estrellas. - Braum"
+Hola soy **Carlo** Una de mis peliculas favoritas en pacific rim del gran Guillermo del toro, te recomiendo verla.
